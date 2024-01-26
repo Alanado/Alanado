@@ -1,4 +1,4 @@
-### Olá a todos :japanese_goblin:
+# Olá a todos :japanese_goblin:
 
 Me chamo Alan Gabriel Araujo dos Reis, enstusiasta de games :video_game:. Estudo programação desde 2023, minha stack é a de **Back-End**. 
 
